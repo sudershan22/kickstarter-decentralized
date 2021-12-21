@@ -4,8 +4,8 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "egg motion chair major before radar attract rally knee pair tool turtle",
-  "https://rinkeby.infura.io/v3/2a3288c008cb483a9b90995f7449d478"
+  "mnemonic gies here",
+  "rinkeby URL"
 );
 const web3 = new Web3(provider);
 
